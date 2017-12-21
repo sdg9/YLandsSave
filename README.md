@@ -1,3 +1,8 @@
+# Purpose of this
+Allow anyone to host YLands with a few simple commands (details in Hosting section)
+
+It requries everyone who hosts to upload their file back to github when complete with a game session.  If you forget then your progress that session will be wiped.
+
 # One time Setup
 
 Find your [YLands save location](https://ylands.com/community/topic/5442-save-file-location/)
@@ -39,3 +44,5 @@ Find your [YLands save location](https://ylands.com/community/topic/5442-save-fi
     2. `git commit -am "New save"`
     3. `git push`
     
+# Fringe benefits
+- If something bogus happens (one of our computers blows up, Anthony joins and steals all our goodies, etc) we'll have a restore point for every game session.
