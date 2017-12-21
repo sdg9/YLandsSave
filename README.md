@@ -1,7 +1,7 @@
-# Purpose of this
+# Purpose
 Allow anyone to host YLands with a few simple commands (details in Hosting section)
 
-It requries everyone who hosts to upload their file back to github when complete with a game session.  If you forget then your progress that session will be wiped.
+It requries everyone who hosts to upload their file back to github when complete with a game session.  If you forget and people play a new game session with a different host in between, your session will be lost.
 
 # One time Setup
 
