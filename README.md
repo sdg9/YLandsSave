@@ -21,15 +21,15 @@ Find your [YLands save location](https://ylands.com/community/topic/5442-save-fi
 # Hosting
 
 ## Pull the latest save
-1. Navigate to your YLands directory
-2. Run `git pull`
+Navigate to your YLands directory and run
+1. `git pull`
 
 ## Upload the latest version (after you finish hosting)
-1. Exit the game (YLands can be running).
-2. Navigate to your YLands directory
-3. Run the following
-    1. `git commit -am "New save"`
-    2. `git push`  (this part should take a few seconds as it will upload a 18mb file)
+Exit the game (YLands can be running), navigate to your YLands directory and run
+1. `git commit -am "New save"`
+2. `git push`  
+
+#2 should take a few seconds as it will upload a 18mb file
     
 # Fringe benefits
 - If something bogus happens (one of our computers blows up, Anthony joins and steals all our goodies, etc) we'll have a restore point for every game session.
